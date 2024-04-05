@@ -62,8 +62,6 @@ export default function Nav({
         bg={useColorModeValue('gray.100', 'gray.900')}
         px={4}
         h={16}
-        zIndex="sticky"
-        position="fixed"
         as="header"
         alignItems="center"
         justifyContent="space-between"

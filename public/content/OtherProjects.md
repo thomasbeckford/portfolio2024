@@ -5,7 +5,7 @@ This is a porfolio website created with React and Framer Motion, to show off my 
   - framer-motion [blue]
   - project [green]
 - Buttons:
-  - Link [https://levygorvy.com/]
+  - Link [https://scroll-animated.vercel.app]
 
 ## Blockchain Trivia
 This is a trivia game that uses blockchain technology, created with React and Web3 that allows users to play and win crypto.
@@ -14,7 +14,7 @@ This is a trivia game that uses blockchain technology, created with React and We
   - web3 [yellow]
   - project [green]
 - Buttons:
-  - Link [https://levygorvy.com/]
+  - Link [https://membrane-frontend-cc-five.vercel.app]
 
 ## Design System
 Design System using Figma, ChakraUI and React, with a focus on accessibility.
@@ -24,7 +24,7 @@ Design System using Figma, ChakraUI and React, with a focus on accessibility.
   - design-system [orange]
   - project [green]
 - Buttons:
-  - Link [https://levygorvy.com/]
+  - Link [https://spirit-design-system.vercel.app/]
 
 ## MatJoe
 Through the use of NFTs, MatJoe webapp is creating a new way for artists to connect with their fans. The platform will allow artists to sell NFTs.
